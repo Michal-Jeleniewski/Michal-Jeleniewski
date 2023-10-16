@@ -1,10 +1,14 @@
-
+![discord](https://github.com/Michal-Jeleniewski/Michal-Jeleniewski/assets/116550149/9a10b1a1-0627-47a4-a5a1-625eec0910ab)
 # ***Hi!*** 👋
 
 My name is Michał and I am 20 years old Full-Stack Developer.  
 
+# 🌐 ***Socials***
 
-
+[![icons8-discord-48](https://github.com/Michal-Jeleniewski/Michal-Jeleniewski/assets/116550149/db475d62-8cdd-4d95-983b-9dab7c71cc55)](https://google.com)
+![icons8-instagram-48](https://github.com/Michal-Jeleniewski/Michal-Jeleniewski/assets/116550149/c53aadef-540d-42a6-a701-b42c19c2b686)
+![icons8-linkedin-48](https://github.com/Michal-Jeleniewski/Michal-Jeleniewski/assets/116550149/da2aded5-ea43-463d-9309-f20474335e6e)
+![icons8-mail-48](https://github.com/Michal-Jeleniewski/Michal-Jeleniewski/assets/116550149/b0465fbe-d37d-4888-9dde-e8a3980f3d03)
 
 # 🛠️ ***Technologies***
 
