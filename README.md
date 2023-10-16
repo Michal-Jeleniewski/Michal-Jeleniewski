@@ -1,6 +1,6 @@
 # ***Hi!*** 👋
 
-My name is Michał and I am 20 years old Full-Stack Developer specializing in front-end topics.. I am open to collaboration opportunities and determined to continually deepen my programming skills.
+My name is Michał and I am 20 years old Full-Stack Developer specializing in front-end topics. I am open to collaboration opportunities and determined to continually deepen my programming skills.
 
 # 💻 ***Larger projects***
 
