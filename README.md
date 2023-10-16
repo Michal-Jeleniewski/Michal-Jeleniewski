@@ -5,10 +5,10 @@ My name is Michał and I am 20 years old Full-Stack Developer.
 
 # 🌐 ***Socials***
 
-[![Discord](.\Images\Discord.png)](https://google.com)
-[![Instagram](.\Images\Instagram.png)](https://www.instagram.com/jeleniewsky_/)
-[![LinkedIn](.\Images\LinkedIn.png)](https://www.linkedin.com/in/michal-jeleniewski/)
-[![Mail](.\Images\Mail.png)](mailto:m123jeleniewski@gmail.com)
+[![Discord](./Images/Discord.png)](https://discordapp.com/users/328271474878316555)
+[![Instagram](./Images/Instagram.png)](https://www.instagram.com/jeleniewsky_/)
+[![LinkedIn](./Images/LinkedIn.png)](https://www.linkedin.com/in/michal-jeleniewski/)
+[![Mail](./Images/Mail.png)](mailto:m123jeleniewski@gmail.com)
 
 # 🛠️ ***Technologies***
 
