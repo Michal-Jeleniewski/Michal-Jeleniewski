@@ -1,12 +1,13 @@
-![discord](https://github.com/Michal-Jeleniewski/Michal-Jeleniewski/assets/116550149/9a10b1a1-0627-47a4-a5a1-625eec0910ab)
 # ***Hi!*** 👋
 
-My name is Michał and I am 20 years old Full-Stack Developer.  
+My name is Michał and I am 20 years old Full-Stack Developer specializing in front-end topics.. I am open to collaboration opportunities and determined to continually deepen my programming skills.
 
-# ***Larger projects***
+# 💻 ***Larger projects***
 
-[![goMove](./Images/goMoveLogo.png)](https://github.com/Michal-Jeleniewski/GoMove)
+## [![goMove](./Images/goMoveLogo.png)](https://github.com/Michal-Jeleniewski/GoMove)  [***GoMove***](https://github.com/Michal-Jeleniewski/GoMove)
+An application designed to promote active lifestyles, encouraging individuals to engage in activities such as organizing group runs or cycling excursions. It offers features like creating custom activities, searching for nearby activities, and sharing them with others.
 
+Co-creators: [Dominik Mrozik](https://github.com/dmrozik87), [Kamil Sadłocha](https://github.com/KamilSadlocha), [Ignacy Gąsiorowski](https://github.com/ignacyD), [Jakub Szczygieł](https://github.com/Szczygiel29)
 
 # 🌐 ***Socials***
 
