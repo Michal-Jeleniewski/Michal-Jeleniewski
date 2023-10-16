@@ -5,7 +5,7 @@ My name is Michał and I am 20 years old Full-Stack Developer.
 
 # ***Larger projects***
 
-[![goMove](./Images/goMove.png)](https://github.com/Michal-Jeleniewski/GoMove)
+[![goMove](./Images/goMoveLogo.png)](https://github.com/Michal-Jeleniewski/GoMove)
 
 
 # 🌐 ***Socials***
